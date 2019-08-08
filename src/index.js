@@ -44,7 +44,7 @@ class App extends React.Component {
         case "crazy feeling":
           track = crazyfeeling;
           break;
-        case "vaadi-Nee-vaadi":
+        case "Vaadi-Nee-Vaadi":
           track = Vaadi_Nee_Vaadi;
           break;
         case "Meesaya-Murukku":

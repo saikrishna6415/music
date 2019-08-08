@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 
 const crazyfeeling = "./music/crazyfeeling.mp3";
-const Vaadi_ne_Vaadi = "./music/vaadi-Nee-vaadi.mp3";
+const Vaadi_Nee_Vaadi = "./music/vaadi-Nee-vaadi.mp3";
 const Meesaya_Murukku= "/music/Meesaya-Murukku.mp3" ;
 const Adiye_Sakkarakatti= "/music/Adiye-Sakkarakatti.mp3" ;
 const Maattikkichey_Maattikkichey = "/music/Maattikkichey-Maattikkichey.mp3";
@@ -45,7 +45,7 @@ class App extends React.Component {
           track = crazyfeeling;
           break;
         case "vaadi-Nee-vaadi":
-          track = Vaadi_ne_Vaadi;
+          track = Vaadi_Nee_Vaadi;
           break;
         case "Meesaya-Murukku":
           track = Meesaya_Murukku;

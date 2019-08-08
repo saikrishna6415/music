@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 
 const crazyfeeling = "./music/crazyfeeling.mp3";
-const Vaadi_Nee_Vaadi = "./music/vaadi-Nee-vaadi.mp3";
+const Vaadi_Nee_Vaadi = "./music/Vaadi-Nee-Vaadi.mp3";
 const Meesaya_Murukku= "/music/Meesaya-Murukku.mp3" ;
 const Adiye_Sakkarakatti= "/music/Adiye-Sakkarakatti.mp3" ;
 const Maattikkichey_Maattikkichey = "/music/Maattikkichey-Maattikkichey.mp3";

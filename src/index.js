@@ -115,9 +115,6 @@ class App extends React.Component {
     return (
       <>
       <div style={ sectionStyle }>
-
-    return (
-      <>
         <h1>My Music Player</h1>
         <ul>{list}</ul>
         <div>

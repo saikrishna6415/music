@@ -102,7 +102,7 @@ class App extends React.Component {
     const duration = getTime(this.state.duration);
     var sectionStyle = {
       width: "1500px",
-      height: "700px",
+      height: "900px",
       backgroundImage: "url('./music/music.jpg')",
       backgroundSize:     "cover",
       backgroundRepeat:  "no-repeat" ,

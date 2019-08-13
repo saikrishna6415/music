@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-
 const crazyfeeling = "./music/crazyfeeling.mp3";
 const Vaadi_Nee_Vaadi = "./music/Vaadi-Nee-Vaadi.mp3";
 const Meesaya_Murukku= "/music/Meesaya-Murukku.mp3" ;
@@ -144,6 +143,7 @@ class App extends React.Component {
           ""
         )}
         <audio ref={ref => (this.player = ref)} />
+        </div>
       </>
     );
   }
